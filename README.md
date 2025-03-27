@@ -23,7 +23,7 @@ This project is dedicated to Mahendra Singh Dhoni, one of the greatest cricket c
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ms-dhoni-tribute.git
+ git clone https://github.com/yourusername/ms-dhoni-tribute.git](https://rudransh777.github.io/Tribute-Page/trub.html
    ```
 2. Navigate to the project directory:
    ```sh
