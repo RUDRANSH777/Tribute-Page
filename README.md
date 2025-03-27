@@ -46,13 +46,10 @@ This project is dedicated to Mahendra Singh Dhoni, one of the greatest cricket c
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://rudransh777.github.io/Tribute-Page/trub.html
+   https://rudransh777.github.io/Tribute-Page/trub.html
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd ms-dhoni-tribute
-   ```
-3. Open `index.html` in your browser.
+
+2. Open `trub.html` in your browser.
 
 ## 🎖️ Contribution
 Contributions are welcome! If you have additional content, images, or features to add, feel free to submit a pull request.
